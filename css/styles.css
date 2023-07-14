@@ -1,0 +1,30 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+    color: #66bfbf;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3  {
+    color: #66bfbf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4  {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: zero;
+    width: 5%;
+}
+
+
